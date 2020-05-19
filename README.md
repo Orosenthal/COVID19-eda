@@ -4,13 +4,13 @@ covid19 exploratory data analysis and advanced visualizations
 The data was extracted from these three sources:
 1. <div style="direction:rtl">
     <a href="https://www.worldometers.info/coronavirus/">Worldometers</a>
-</div> 
+
 2. <div style="direction:rtl">
     <a href="https://github.com/COVID19Tracking/covid-tracking-data/">COVID Tracking Data</a>
-</div> 
+ 
 3. <div style="direction:rtl">
     <a href="https://en.wikipedia.org/wiki/List_of_countries_by_dependency_ratio/">wikipedia</a>
-</div> 
+ 
   
 
 ![covid2](https://user-images.githubusercontent.com/46570219/80697096-23bbb400-8ae1-11ea-92a3-2e2fa04f8c06.jpg)
