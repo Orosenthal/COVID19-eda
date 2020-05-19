@@ -11,10 +11,12 @@ The data was extracted from these three sources:
 3. <div style="direction:rtl">
     <a href="https://en.wikipedia.org/wiki/List_of_countries_by_dependency_ratio/">wikipedia</a>
  
-  
+ <br>
+ <br>
   
  <b>EDA/Graphics examples:</b>
  
+<br>
 
 ![covid2](https://user-images.githubusercontent.com/46570219/80697096-23bbb400-8ae1-11ea-92a3-2e2fa04f8c06.jpg)
 ![covid3](https://user-images.githubusercontent.com/46570219/80697100-25857780-8ae1-11ea-966b-060def070ed0.jpg)
