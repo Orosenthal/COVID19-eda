@@ -1,11 +1,6 @@
 # COVID19-eda
 covid19 exploratory data analysis and advanced visualizations
 
-This notebook presents an exploratory data analysis, for coronavirus pandemic, particularly with advanced visualization.<br>
-In order to make it more clearly visible, I have hidden the prompt code from this version.<br>
-The full code can be found in my GitHub: <div style="direction:ltr"><a href="https://github.com/Orosenthal/COVID19-eda">COVID19-eda</a></div>
-    
-
 The data was extracted from these three sources:
 1. <div style="direction:rtl">
     <a href="https://www.worldometers.info/coronavirus/">Worldometers</a>
